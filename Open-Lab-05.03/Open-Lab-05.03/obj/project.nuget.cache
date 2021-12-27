@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "zY/5yT7QMtDs3i+f0tbslXItyHQBZdfTQzws8m8vV6xIE6G24OG/S5x0QhSrqItbhor79Q9/e80EUChDObNWkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onkom\\Source\\Repos\\Open-Lab-05.03\\Open-Lab-05.03\\Open-Lab-05.03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onkom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\onkom\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\onkom\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\onkom\\.nuget\\packages\\nunitlite\\3.12.0\\nunitlite.3.12.0.nupkg.sha512",
+    "C:\\Users\\onkom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\onkom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\onkom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\onkom\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
